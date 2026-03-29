@@ -18,9 +18,5 @@ This project leverages advanced time-series analysis to predict future customer 
 * `ARIMA_churn_pred.ipynb`: The primary Google Colab Jupyter Notebook containing the complete end-to-end workflow, including exploratory data analysis, stationarity tests, model training, and visual outputs.
 * `arima_churn_pred.py`: The exported Python script version of the notebook for clean code review.
 
-## 📂 Dataset
-> **Note:** The historical customer activity dataset used to train this model has been excluded from this repository to adhere to version control best practices regarding file size.
-* The raw dataset can be accessed here: [Insert link to dataset, e.g., Kaggle link]
-
 ## 🛠️ How to View
 Since this project was developed in Google Colab, the easiest way to view the analysis and visual outputs is to open `ARIMA_churn_pred.ipynb` directly here on GitHub.
